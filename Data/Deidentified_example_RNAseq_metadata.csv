@@ -1,0 +1,17 @@
+sample,group,subject,Nanodrop_conc_ng_uL,Nanodrop_260_280,Nanodrop_260_230,Qubit_conc_ng_uL,TapeStation_RIN
+Treated1,Treated,1,289.5,2.12,1.33,378,8.9
+Control1,Control,1,139.5,2.04,1.56,219,9
+Treated2,Treated,2,279.6,2.1,1.81,375,8.3
+Control2,Control,2,86.29,1.98,0.51,136,9.2
+Treated3,Treated,3,310,2.12,1.81,393,8.9
+Control3,Control,3,136.9,2.07,1.22,216,9.3
+Treated4,Treated,4,385.9,2.11,1.72,454,8.1
+Control4,Control,4,96.45,2.02,1.16,156,9.2
+Treated5,Treated,5,331.8,2.11,1.88,414,8.9
+Control5,Control,5,106.5,1.98,1.32,166,9.3
+Treated6,Treated,6,308.8,2.13,1.32,396,9
+Control6,Control,6,94.05,2.06,0.78,161,9.5
+Treated7,Treated,7,253.5,2.11,1.54,348,8.8
+Control7,Control,7,61.27,1.96,1.29,108,9.6
+Treated8,Treated,8,244.9,2.11,1.23,344,NA
+Control8,Control,8,77.45,2.02,0.9,131,9.4
