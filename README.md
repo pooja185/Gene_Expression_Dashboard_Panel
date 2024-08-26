@@ -16,4 +16,5 @@ In this repository you will find three folders:
 - Data : Sample Gene expression normalized data
 - Figures : A snippet of the dashboard
 
-![Dashboard] (https://github.com/pooja185/Panel_data_visualization_app/blob/main/Figures/Panel_app.png)
+![Dashboard](https://github.com/pooja185/Panel_data_visualization_app/blob/main/Figures/Panel_app.png)
+
